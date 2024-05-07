@@ -1,7 +1,7 @@
 ﻿# Desafio2-Java-Fechas-TD
 # Desafío - Quién es mayor 
 
-![Imagen del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Resistencia/main/imagenes%20del%20proyecto/Captura1.JPG)
+![Imagen del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Fechas/master/imagenes%20del%20proyecto/Captura.JPG)
 
 ## Descripción 📑
 
@@ -66,8 +66,8 @@ Requerimientos
 
 Si gustas, aqui te dejo algunas imagenes del proyecto realizado, te las recomiendo:
 
-![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Resistencia/main/imagenes%20del%20proyecto/Captura.JPG)
-![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Resistencia/main/imagenes%20del%20proyecto/Captura1.JPG)
+![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Fechas/master/imagenes%20del%20proyecto/Captura1.JPG)
+![Captura del proyecto](https://raw.githubusercontent.com/TomasAguileraCastillo/Fechas/master/imagenes%20del%20proyecto/Captura2.JPG)
 
 ## Autor ✒️
 ** Tomás Aguilera**
